@@ -40,6 +40,10 @@ ul {
   color: #444444;
 }
 
+a.article-title,a.mr-2 {  
+  text-decoration: none;
+}
+
 a.article-title:hover {
   color: #428bca;
   text-decoration: none;
